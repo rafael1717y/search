@@ -1,0 +1,2 @@
+[![Updates](https://pyup.io/repos/github/rafael1717y/search/shield.svg)](https://pyup.io/repos/github/rafael1717y/search/)
+[![Python 3](https://pyup.io/repos/github/rafael1717y/search/python-3-shield.svg)](https://pyup.io/repos/github/rafael1717y/search/)
